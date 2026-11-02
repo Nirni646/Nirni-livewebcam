@@ -1,0 +1,21 @@
+Nirni Livewebcam
+Copyright (c) 2026 Sidagam Nirni Naidu. All rights reserved.
+
+The LICENSE file covers only the Author's own work: the source code,
+documentation, tests, scripts, gesture designs and name of Nirni Livewebcam.
+
+The following third-party components are used by the project. They are not the
+Author's work and remain under their own licenses.
+
+  MediaPipe (Google)                  Apache License 2.0
+    models/face_landmarker.task       distributed by Google under Apache License 2.0
+    models/hand_landmarker.task       distributed by Google under Apache License 2.0
+    selfie_segmenter_landscape.tflite downloaded on first run from Google's servers
+  OpenCV (opencv-contrib-python)      Apache License 2.0
+  NumPy                               BSD 3-Clause License
+  pyvirtualcam                        installed from PyPI by the user, not
+                                      bundled here; see its own license
+  OBS Studio (optional)               installed separately by the user; see its
+                                      own license
+
+Copies of these licenses are available from the projects named above.

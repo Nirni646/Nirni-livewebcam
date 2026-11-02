@@ -1,0 +1,55 @@
+NIRNI LIVEWEBCAM - PROPRIETARY LICENSE (ALL RIGHTS RESERVED)
+
+Copyright (c) 2026 Sidagam Nirni Naidu. All rights reserved.
+
+"Nirni Livewebcam" (earlier called "Nirni Vanish"), its source code, gesture
+designs, documentation, tests, scripts and name (together, the "Software") are
+the original work of Sidagam Nirni Naidu (the "Author").
+
+1. OWNERSHIP
+   The Software is owned by the Author. It is licensed, not sold. No ownership
+   or other right is transferred to you except the limited permission in
+   section 3.
+
+2. WHAT YOU MAY NOT DO
+   Without the Author's prior written permission, you may not, in whole or in
+   part, in source or any other form:
+   a) copy, reproduce, or duplicate the Software;
+   b) modify, adapt, translate, or create derivative works from it;
+   c) publish, upload, distribute, sublicense, sell, rent, lease, lend, or
+      host it, or make it available to anyone else;
+   d) use it, or any part of it, in another project, product or service,
+      commercial or not;
+   e) use it, or its design, to train or fine-tune any machine-learning model;
+   f) remove or change any copyright notice, license text, author name or
+      attribution in it;
+   g) present it, or any part of it, as your own work.
+
+3. LIMITED PERMISSION TO RUN
+   If you received an unmodified copy directly from the Author, you may run it
+   on your own computer for personal, non-commercial use. You may not give that
+   copy to anyone else. The Author may withdraw this permission at any time.
+
+4. THIRD-PARTY COMPONENTS
+   The Software uses third-party libraries and model files that are not part of
+   the Author's work. They stay under their own licenses, listed in the NOTICE
+   file. This license does not change those licenses.
+
+5. TERMINATION
+   Any breach of this license ends your permission immediately. You must then
+   delete every copy of the Software in your possession.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, DAMAGE OR LOSS ARISING FROM THE
+   SOFTWARE OR ITS USE.
+
+8. GOVERNING LAW
+   This license is governed by the laws of India.
+
+9. PERMISSIONS
+   Requests for any permission not given here must be made to the Author in
+   writing. Permission is valid only if the Author gives it in writing.

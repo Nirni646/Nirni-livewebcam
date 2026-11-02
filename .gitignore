@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+models/selfie_segmenter_landscape.tflite
+*.part
+captures/
