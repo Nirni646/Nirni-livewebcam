@@ -1,4 +1,4 @@
-# Nirni Livewebcam 2.0
+# Web Canvas
 
 Gesture magic for your webcam.
 
